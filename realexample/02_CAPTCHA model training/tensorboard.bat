@@ -1,0 +1,1 @@
+tensorboard --logdir=CAPTCHA_training_dir
